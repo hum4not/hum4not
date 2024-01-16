@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **Protecting your application, cracking, reversing and your code issues**
 
-- 📫 Discord **humanot_official**
-
 <h3 align="left">Connect with me:</h3>
+- 📫 Discord: **humanot_official**
+- 📫 Telegram: **@hum4not**
 <p align="left">
 </p>
 
