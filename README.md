@@ -3,13 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hum4not&label=Profile%20views&color=0e75b6&style=flat" alt="hum4not" /> </p>
 
-- 🔭 I’m currently working on **Assembly translator**
-
-- 🌱 I’m currently learning **Assembly x86**
-
-- 👨‍💻 All of my projects are available at [https://github.com/hum4not?tab=repositories](https://github.com/hum4not?tab=repositories)
-
-- 💬 Ask me about **Protecting your application, cracking, reversing and your code issues**
+<h3 align="left">2024</h3>
+- Reverse multitool (ASM x86 analize[ru\eng]; Static Memory filtered scanner; Visuality[MetroFramework]; Falsification of HTTP responses) | C#
+- PC Manage bot (Telegram bot, allows you to manage pc such as shutdown/restart, stop/start/fullsize/unfullsize video, send screenshot) | PY
+- Voice asstistance - (Decode your voice into text and execute commands) | PY
+- Etsy Spammer - (Automatic spammer for etsy mail) | C#
+- SDOLogginer - (Connect to your courses on selected time being AFK) | C#
+- 3D\AR\VR Games | UNITY C#
+- MyPet - (Desktop copy of tamagochi with big functional) | C#
 
 <h3 align="left">Connect with me:</h3>
 
