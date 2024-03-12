@@ -4,13 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hum4not&label=Profile%20views&color=0e75b6&style=flat" alt="hum4not" /> </p>
 
 <h3 align="left">2024</h3>
-- Reverse multitool (ASM x86 analize[ru\eng]; Static Memory filtered scanner; Visuality[MetroFramework]; Falsification of HTTP responses) | C#
-- PC Manage bot (Telegram bot, allows you to manage pc such as shutdown/restart, stop/start/fullsize/unfullsize video, send screenshot) | PY
-- Voice asstistance - (Decode your voice into text and execute commands) | PY
-- Etsy Spammer - (Automatic spammer for etsy mail) | C#
-- SDOLogginer - (Connect to your courses on selected time being AFK) | C#
-- 3D\AR\VR Games | UNITY C#
-- MyPet - (Desktop copy of tamagochi with big functional) | C#
+<h3 align="left">- Reverse multitool (ASM x86 analize[ru\eng]; Static Memory filtered scanner; Visuality[MetroFramework]; Falsification of HTTP responses) | C# </h3>
+<h3 align="left">- PC Manage bot (Telegram bot, allows you to manage pc such as shutdown/restart, stop/start/fullsize/unfullsize video, send screenshot) | PY </h3>
+<h3 align="left">- Voice asstistance - (Decode your voice into text and execute commands) | PY </h3>
+<h3 align="left">- Etsy Spammer - (Automatic spammer for etsy mail) | C# </h3>
+<h3 align="left">- SDOLogginer - (Connect to your courses on selected time being AFK) | C# </h3>
+<h3 align="left">- 3D\AR\VR Games | UNITY C# </h3>
+<h3 align="left">- MyPet - (Desktop copy of tamagochi with big functional) | C# </h3>
 <p align="left">
   
 <h3 align="left">Connect with me:</h3>
