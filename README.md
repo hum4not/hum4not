@@ -11,7 +11,8 @@
 - SDOLogginer - (Connect to your courses on selected time being AFK) | C#
 - 3D\AR\VR Games | UNITY C#
 - MyPet - (Desktop copy of tamagochi with big functional) | C#
-
+<p align="left">
+  
 <h3 align="left">Connect with me:</h3>
 
 - 📫 Discord: **humanot_official**
